@@ -13,7 +13,7 @@ Here is the link to the web application: https://secret-peak-65275.herokuapp.com
 Javascript, workbox, webpack
 
 ## License
-This project is licensed unser the MIT License
+This project is licensed unser the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Preview 
 ![Homepage when load the Web Application](./images-readme/image-1.png)
