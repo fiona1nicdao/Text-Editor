@@ -8,6 +8,7 @@ const { precacheAndRoute } = require('workbox-precaching/precacheAndRoute');
 
 precacheAndRoute(self.__WB_MANIFEST);
 
+// Set Up Page Cache
 const pageCache = new CacheFirst({
   cacheName: 'page-cache',
   plugins: [
